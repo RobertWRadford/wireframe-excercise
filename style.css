@@ -1,0 +1,27 @@
+img {
+	padding: 15px;
+}
+
+header > nav {
+	vertical-align: 200%;
+}
+
+header > nav > a {
+	padding: 50px;
+	color: #c6c6c6;
+}
+
+button {
+	transition-delay: .35s;
+	height:30px;
+	width:160px;
+	background-color: black;
+	color: darkgrey;
+	vertical-align: bottom;
+}
+
+button:hover {
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
